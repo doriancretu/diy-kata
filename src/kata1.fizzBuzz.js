@@ -1,3 +1,5 @@
-export const fizzBuzz = (number) => {
+const fizzBuzz = (number) => {
 
 }
+
+export default fizzBuzz
