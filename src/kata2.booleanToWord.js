@@ -2,4 +2,4 @@ const booleanToWord = (boolean) => {
 
 }
 
-export default booleanToWord
+module.exports = booleanToWord;

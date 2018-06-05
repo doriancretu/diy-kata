@@ -2,4 +2,4 @@ const humanCatDogYears = (number) => {
 
 }
 
-export default humanCatDogYears
+module.exports = humanCatDogYears;

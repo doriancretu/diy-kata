@@ -2,4 +2,4 @@ const fizzBuzz = (number) => {
 
 }
 
-export default fizzBuzz
+module.exports = fizzBuzz;

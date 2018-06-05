@@ -1,10 +1,10 @@
-import fizzBuzz from './kata1.fizzBuzz'
-import booleanToWord from './kata2.booleanToWord'
-import numberToReversedDigits from './kata3.numberToReversedDigits'
-import humanCatDogYears from './kata4.humanCatDogYears'
-import reachDestination from './kata5.reachDestination'
+const fizzBuzz = require('./kata1.fizzBuzz')
+const booleanToWord = require('./kata2.booleanToWord')
+const numberToReversedDigits = require('./kata3.numberToReversedDigits')
+const humanCatDogYears = require('./kata4.humanCatDogYears')
+const reachDestination = require('./kata5.reachDestination')
 
-export {
+module.exports = {
   fizzBuzz,
   booleanToWord,
   numberToReversedDigits,

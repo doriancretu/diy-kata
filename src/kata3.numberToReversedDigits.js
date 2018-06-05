@@ -2,4 +2,4 @@ const numberToReversedDigits = (number) => {
 
 }
 
-export default numberToReversedDigits
+module.exports = numberToReversedDigits;
