@@ -1,5 +1,3 @@
-const reachDestination = (distance, speed) => {
-
-}
+const reachDestination = (distance, speed) => {};
 
 module.exports = reachDestination;

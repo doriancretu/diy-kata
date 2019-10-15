@@ -1,5 +1,3 @@
-const fizzBuzz = (number) => {
-
-}
+const fizzBuzz = number => {};
 
 module.exports = fizzBuzz;
