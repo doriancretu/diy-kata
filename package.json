@@ -20,15 +20,12 @@
   },
   "homepage": "https://github.com/MCRcodes/diy-kata#readme",
   "devDependencies": {
-    "babel-core": "^6.26.0",
-    "babel-jest": "^22.2.2",
-    "babel-preset-env": "^1.6.1",
-    "jest": "^22.3.0"
-  },
-  "jest": {
-    "transform": {
-      "^.+\\.js?$": "babel-jest"
-    },
-    "testEnvironment": "node"
+    "eslint": "^6.5.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-prettier": "^6.4.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-prettier": "^3.1.1",
+    "jest": "^24.9.0",
+    "prettier": "1.18.2"
   }
 }
