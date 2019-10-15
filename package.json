@@ -1,6 +1,6 @@
 {
   "name": "diy-kata",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Exercises covering basic testing with Jest",
   "main": "index.js",
   "scripts": {
